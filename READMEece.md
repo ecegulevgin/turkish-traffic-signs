@@ -46,5 +46,5 @@ Proje, Akbank Derin Öğrenme Bootcamp kapsamında yapılmıştır.
 4. Çıktılar `artifacts/` klasöründe oluşacaktır.  
 
 ## Linkler
-- [Kaggle Notebook](KAGGLE_LINKİNİ BURAYA EKLE)  
-- [GitHub Repository](GITHUB REPO LİNKİNİ BURAYA EKLE)  
+- https://www.kaggle.com/code/eceglevgin/ecegulevginproject 
+- 
