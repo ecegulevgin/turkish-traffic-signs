@@ -47,4 +47,4 @@ Proje, Akbank Derin Öğrenme Bootcamp kapsamında yapılmıştır.
 
 ## Linkler
 - https://www.kaggle.com/code/eceglevgin/ecegulevginproject 
-- 
+- https://github.com/ecegulevgin/turkish-traffic-signs/edit/main/READMEece.md
